@@ -38,4 +38,7 @@ We plan to introduce a travel history feature, allowing users to:
 - CSS  
 - JavaScript  
 - RStudio  
-- Shiny  
+- Shiny
+
+## Try it out!
+https://flymood.shinyapps.io/hack/
